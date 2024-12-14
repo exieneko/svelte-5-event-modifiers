@@ -1,0 +1,6 @@
+node_modules/
+
+index.d.ts
+index.js
+
+/svelte-5-event-modifiers*

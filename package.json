@@ -15,5 +15,8 @@
   ],
   "author": "exieneko",
   "homepage": "https://github.com/exieneko/svelte-5-event-modifiers",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  }
 }
