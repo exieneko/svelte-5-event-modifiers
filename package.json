@@ -1,0 +1,19 @@
+{
+  "name": "svelte-5-event-modifiers",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm exec tsc",
+    "dev": "pnpm exec tsc --watch",
+    "prepack": "pnpm build"
+  },
+  "keywords": [
+    "svelte",
+    "sveltekit"
+  ],
+  "author": "exieneko",
+  "homepage": "https://github.com/exieneko/svelte-5-event-modifiers",
+  "license": "MIT"
+}
