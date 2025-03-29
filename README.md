@@ -18,7 +18,7 @@ The `callable` function takes in your function as its first parameter, then all 
 
 ```html
 <script>
-    import callabe, { preventDefault, self, once } from 'svelte-5-event-modifiers';
+    import callable, { preventDefault, self, once } from 'svelte-5-event-modifiers';
 
     const onclick = callable(() => {}, preventDefault, self, once);
 </script>
